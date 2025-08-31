@@ -1,31 +1,28 @@
-      |  ¿QUE ES FILOSOFIA?    
-      |  JOSÉ ORTEGA Y GASSET
+#  ¿QUE ES FILOSOFIA? </center>   
+##  JOSÉ ORTEGA Y GASSET
       
-00.00 |  La importancia del curso, ¿Qué es filosofía? en la obra de {
-      |  Ortega, en cuanto a exposición de su pensamiento filosófico, es 
-      |  sobresaliente y su texto figurará, sin duda, entre sus libros capitales. 
-      |  Esta nueva edición incluye un apéndice en el que se reproducen 
-      |  algunos artículos de Ortega, complementarios del texto de ¿Qué es 
-      |  filosofía? y que por primera vez se reimprimen desde su publicación, 
-      |  en ' La Nación ' de Buenos Aires, en 1931. La revisión de los 
-      |  originales ha permitido, por otra parte, enmendar algunos errores 
-      |  que se habían deslizado en las precedentes ediciones. 
+<sup> 00.00 </sup>La importancia del curso, ¿Qué es filosofía? en la obra de {
+       Ortega, en cuanto a exposición de su pensamiento filosófico, es 
+        sobresaliente y su texto figurará, sin duda, entre sus libros capitales. 
+        Esta nueva edición incluye un apéndice en el que se reproducen 
+        algunos artículos de Ortega, complementarios del texto de ¿Qué es 
+        filosofía? y que por primera vez se reimprimen desde su publicación, 
+        en ' La Nación ' de Buenos Aires, en 1931. La revisión de los 
+        originales ha permitido, por otra parte, enmendar algunos errores 
+        que se habían deslizado en las precedentes ediciones. 
       
-      |  ©1929, Ortega y Gasset, José 
-      |  ©1957, Alianza Editorial, S.A. 
+        ©1929, Ortega y Gasset, José   
+        ©1957, Alianza Editorial, S.A.   
+        Colección: Obras de José Ortega y Gasset, 5   
+        ISBN: 9788420641058   
+        Generado con: QualityEbook v0.66    
+        Generado por: Fideo99, 30/07/2013   
+        Segunda Edición Digital Generado por: ZHORam}
+  
+### 01.00 <center>\|  LECCIÓN 01 \| </center>   
+###### \| La filosofía, hoy \| La extraña aventura que a las verdades acontece: el advenimiento de la verdad \| Articulación de la historia y la filosofía.
       
-      |  Colección: Obras de José Ortega y Gasset, 5 
-      |  ISBN: 9788420641058 
-      |  Generado con: QualityEbook v0.66 
-      |  Generado por: Fideo99, 30/07/2013 
-      |  Segunda Edición Digital Generado por: ZHORam}
-
-01.00 |• LECCIÓN 01   {
-      |• La filosofía, hoy.
-      |• La extraña aventura que a las verdades acontece: el advenimiento de la verdad.
-      |• Articulación de la historia y la filosofía.
-
-01.01 En materia de arte, de amor o de ideas creo poco eficaces anuncios y 
+<sup>01.01</sup> En materia de arte, de amor o de ideas creo poco eficaces anuncios y 
       programas. Por lo que hace a las ideas, la razón de tal incredulidad es la 
       siguiente: la meditación sobre un tema cualquiera, cuando es ella positiva 
       y auténtica, aleja inevitablemente al meditador de la opinión recibida o 
@@ -43,10 +40,8 @@
       colocando al público frente a este acantilado inasequible que sería 
       nuestro programa, es decir, comenzando por el fin?   
 
-01.02 Renuncio, pues, a mayusculizar con letras de programa lo que este 
-      ciclo de conferencias va a ser, y me propongo comenzar por el principio, 
-      por lo que para ustedes puede ser hoy, como fue para mí ayer, término 
-      inicial.   
+<sup>01.02</sup>
+Renuncio, pues, a mayusculizar con letras de programa lo que este ciclo de conferencias va a ser, y me propongo comenzar por el principio, por lo que para ustedes puede ser hoy, como fue para mí ayer, término inicial.   
 
 01.03 Este hecho que primero encontramos es externo y público: la distinta 
       situación en que la filosofía se halla hoy dentro del espíritu colectivo si 
@@ -381,13 +376,14 @@
 
 01.17 ¿Cómo se produjo aquella reducción, aquel angostamiento del cuerpo 
       filosófico? La serie suficiente de las causas que explican semejante hecho 
-      nos ocupará el próximo día.   }
+      nos ocupará el próximo día.   
 
-02.00 |• LECCIÓN 02.⁰  {
-      |• Reducción y expansión de la filosofía.
-      |• El drama de las generaciones.
-      |• Imperialismo de la física. 
-      |• Pragmatismo.
+# <sup>02.00</sup> LECCIÓN 02.⁰  
+
+      \|• Reducción y expansión de la filosofía.  
+      \|• El drama de las generaciones.  
+      \|• Imperialismo de la física.   
+      \|• Pragmatismo.  
 
 02.01 Por razones que no es urgente ni siquiera interesante comunicar ahora 
       he tenido que suspender el curso público iniciado por mí en la 
