@@ -10,18 +10,20 @@
         en ' La Nación ' de Buenos Aires, en 1931. La revisión de los 
         originales ha permitido, por otra parte, enmendar algunos errores 
         que se habían deslizado en las precedentes ediciones. 
-      
-        ©1929, Ortega y Gasset, José   
+      ---
+©1929, Ortega y Gasset, José   
         ©1957, Alianza Editorial, S.A.   
         Colección: Obras de José Ortega y Gasset, 5   
         ISBN: 9788420641058   
         Generado con: QualityEbook v0.66    
         Generado por: Fideo99, 30/07/2013   
-        Segunda Edición Digital Generado por: ZHORam}
-  
-### 01.00 <center>\|  LECCIÓN 01 \| </center>   
-###### \| La filosofía, hoy \| La extraña aventura que a las verdades acontece: el advenimiento de la verdad \| Articulación de la historia y la filosofía.
-      
+        Segunda Edición Digital Generado por: ZHOR@
+        
+---
+### 01.00 <center>\|  LECCIÓN 01 \| </center>    
+---
+###### \| La filosofía, hoy \| La extraña aventura que a las verdades acontece: el advenimiento de la verdad \| Articulación de la historia y la filosofía. \| .
+---   
 <sup>01.01</sup> En materia de arte, de amor o de ideas creo poco eficaces anuncios y 
       programas. Por lo que hace a las ideas, la razón de tal incredulidad es la 
       siguiente: la meditación sobre un tema cualquiera, cuando es ella positiva 
@@ -377,13 +379,10 @@ Renuncio, pues, a mayusculizar con letras de programa lo que este ciclo de confe
 01.17 ¿Cómo se produjo aquella reducción, aquel angostamiento del cuerpo 
       filosófico? La serie suficiente de las causas que explican semejante hecho 
       nos ocupará el próximo día.   
+---   
+### <sup>02.00</sup> \| LECCIÓN 02 <sup> ⁰ </sup> \| 
 
-# <sup>02.00</sup> LECCIÓN 02.⁰  
-
-      \|• Reducción y expansión de la filosofía.  
-      \|• El drama de las generaciones.  
-      \|• Imperialismo de la física.   
-      \|• Pragmatismo.  
+#### \| Reducción y expansión de la filosofía \| El drama de las generaciones \| Imperialismo de la física.  \| Pragmatismo \| 
 
 02.01 Por razones que no es urgente ni siquiera interesante comunicar ahora 
       he tenido que suspender el curso público iniciado por mí en la 
