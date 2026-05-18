@@ -1,9 +1,9 @@
-#  ¿QUE ES FILOSOFIA? </center>   
+#  ¿QUE ES FILOSO  
 ##  JOSÉ ORTEGA Y GASSET
-      
-<sup> 00.00 </sup>La importancia del curso, ¿Qué es filosofía? en la obra de {
-       Ortega, en cuanto a exposición de su pensamiento filosófico, es 
-        sobresaliente y su texto figurará, sin duda, entre sus libros capitales. 
+### 00.00 \| PRELIMINARES. 
+
+La importancia del curso, ¿Qué es filosofía? en la obra de  Ortega, en cuanto a exposición de su pensamiento filosófico, es 
+       sobresaliente y su texto figurará, sin duda, entre sus libros capitales. 
         Esta nueva edición incluye un apéndice en el que se reproducen 
         algunos artículos de Ortega, complementarios del texto de ¿Qué es 
         filosofía? y que por primera vez se reimprimen desde su publicación, 
