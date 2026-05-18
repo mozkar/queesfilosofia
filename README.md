@@ -1,4 +1,4 @@
-#  ¿QUE ES FILOSO  
+#  ¿QUE ES FILOSAFÍA?
 ##  JOSÉ ORTEGA Y GASSET
 ### 00.00 \| PRELIMINARES. 
 
@@ -10,14 +10,22 @@ La importancia del curso, ¿Qué es filosofía? en la obra de  Ortega, en cuanto
         en ' La Nación ' de Buenos Aires, en 1931. La revisión de los 
         originales ha permitido, por otra parte, enmendar algunos errores 
         que se habían deslizado en las precedentes ediciones. 
+
       ---
-©1929, Ortega y Gasset, José   
+
+©1929, Ortega y Gasset, José.
+
         ©1957, Alianza Editorial, S.A.   
-        Colección: Obras de José Ortega y Gasset, 5   
-        ISBN: 9788420641058   
-        Generado con: QualityEbook v0.66    
-        Generado por: Fideo99, 30/07/2013   
-        Segunda Edición Digital Generado por: ZHOR@
+
+        Colección: Obras de José Ortega y Gasset (5).
+ 
+        ISBN: 9788420641058.
+
+        Generado con: QualityEbook v0.66  
+  
+        Generado por: Fideo99, 30/07/2013  
+ 
+        Segunda Edición Digital Generado por: ZHOR.
         
 ---
 ### 01.00 <center>\|  LECCIÓN 01 \| </center>    
