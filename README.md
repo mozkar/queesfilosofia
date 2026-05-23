@@ -385,10 +385,13 @@ Renuncio, pues, a mayusculizar con letras de programa lo que este ciclo de confe
       fecha consiste precisamente en salir de nuevo a una filosofía plenária, 
       completa, es decir, a un máximum de filosofía.   
 
-01.17 ¿Cómo se produjo aquella reducción, aquel angostamiento del cuerpo 
+01.17 
+¿Cómo se produjo aquella reducción, aquel angostamiento del cuerpo 
       filosófico? La serie suficiente de las causas que explican semejante hecho 
-      nos ocupará el próximo día.   
+      nos ocupará el próximo día.  
+ 
 ---   
+
 ### <sup>02.00</sup> \| LECCIÓN 02 <sup> ⁰ </sup> \| 
 
 #### \| Reducción y expansión de la filosofía \| El drama de las generaciones \| Imperialismo de la física.  \| Pragmatismo \| 
