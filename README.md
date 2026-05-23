@@ -32,7 +32,8 @@ La importancia del curso, ¿Qué es filosofía? en la obra de  Ortega, en cuanto
 ---
 ###### \| La filosofía, hoy \| La extraña aventura que a las verdades acontece: el advenimiento de la verdad \| Articulación de la historia y la filosofía. \| .
 ---   
-<sup>01.01</sup> En materia de arte, de amor o de ideas creo poco eficaces anuncios y 
+#### <sup>01.01</sup> 
+En materia de arte, de amor o de ideas creo poco eficaces anuncios y 
       programas. Por lo que hace a las ideas, la razón de tal incredulidad es la 
       siguiente: la meditación sobre un tema cualquiera, cuando es ella positiva 
       y auténtica, aleja inevitablemente al meditador de la opinión recibida o 
